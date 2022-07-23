@@ -1,0 +1,15 @@
+@use 'sass:math';
+@import "modules/zeroStyle";
+@import "./fonts/fonts";
+@import 'modules/header';
+@import 'modules/indexContent';
+@import 'modules/card';
+@import 'modules/footer';
+
+.container {
+	max-width: 1160px;
+	margin: 0 auto;
+	padding: 0px 10px 0px 10px;
+}
+
+
